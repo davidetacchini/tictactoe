@@ -59,8 +59,7 @@ export default {
   box-shadow: var(--box-shadow);
   cursor: pointer;
   overflow: hidden;
-  transition: background-color 50ms ease, box-shadow 50ms ease,
-    transform 50ms linear;
+  transition: background-color 50ms ease, box-shadow 50ms ease, transform 50ms linear;
 }
 
 .board-box.X {
